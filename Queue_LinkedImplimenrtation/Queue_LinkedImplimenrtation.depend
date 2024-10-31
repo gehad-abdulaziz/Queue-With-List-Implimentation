@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1730370332 source:c:\users\gehad\documents\second year\ds\codes\queue\queue\queue_linkedimplimenrtation\main.c
+	<stdio.h>
+	"quelist.h"
+	"linked.h"
+
+1730370075 source:c:\users\gehad\documents\second year\ds\codes\queue\queue\queue_linkedimplimenrtation\linkend.c
+	<stdio.h>
+	<stdlib.h>
+	"linked.h"
+
+1730370056 c:\users\gehad\documents\second year\ds\codes\queue\queue\queue_linkedimplimenrtation\linked.h
+
+1730370295 source:c:\users\gehad\documents\second year\ds\codes\queue\queue\queue_linkedimplimenrtation\queue.c
+	"quelist.h"
+	"linked.h"
+	<stdlib.h>
+
+1730369717 c:\users\gehad\documents\second year\ds\codes\queue\queue\queue_linkedimplimenrtation\quelist.h
+	"linked.h"
+	<stdio.h>
+
